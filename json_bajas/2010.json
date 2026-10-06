@@ -1,0 +1,842 @@
+[
+  {
+    "tit": "Dark Phoenix",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Star Wars: The Rise of Skywalker",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Godzilla: King of the Monsters",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Us",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Terminator: Dark Fate",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Fractured",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Rambo: Last Blood",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Eye for an Eye",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Ad Astra",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "LEGO DC Batman: Family Matters",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Vivarium",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Pokémon Detective Pikachu",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "You Are My Movie",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Taxi to Treasure Rock",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Dumbo",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Portrait of a Lady on Fire",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Lady and the Tramp",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "The Lion King",
+    "anyo": 2019,
+    "punt": 4
+  },
+  {
+    "tit": "Alita: Battle Angel",
+    "anyo": 2019,
+    "punt": 3
+  },
+  {
+    "tit": "6 Underground",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "Trauma Center",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "Frozen II",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "The Addams Family",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "Aladdin",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "The Little Switzerland",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "Under the Same Roof",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "The Angry Birds Movie 2",
+    "anyo": 2019,
+    "punt": 2
+  },
+  {
+    "tit": "The Poison Rose",
+    "anyo": 2019,
+    "punt": 1
+  },
+  {
+    "tit": "Serenity",
+    "anyo": 2019,
+    "punt": 1
+  },
+  {
+    "tit": "Black Panther",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "The Happytime Murders",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Godzilla: The Planet Eater",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Godzilla: City on the Edge of Battle",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Batman Ninja",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Superlopez",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Fantastic Beasts: The Crimes of Grindelwald",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Ralph Breaks the Internet",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "The House with a Clock in Its Walls",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Operation Finale",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "The Best Summer of My Life",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Jurassic World: Fallen Kingdom",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Incredibles 2",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Empowered",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Maze Runner: The Death Cure",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "The Predator",
+    "anyo": 2018,
+    "punt": 4
+  },
+  {
+    "tit": "Aquaman",
+    "anyo": 2018,
+    "punt": 3
+  },
+  {
+    "tit": "The Meg",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Mary Poppins Returns",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Instant Family",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Mirage",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Bird Box",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Bocadillo",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Hotel Mumbai",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Rampage",
+    "anyo": 2018,
+    "punt": 2
+  },
+  {
+    "tit": "Smallfoot",
+    "anyo": 2018,
+    "punt": 1
+  },
+  {
+    "tit": "Holy Goalie",
+    "anyo": 2018,
+    "punt": 1
+  },
+  {
+    "tit": "Selfie",
+    "anyo": 2017,
+    "punt": 4
+  },
+  {
+    "tit": "Star Wars: The Last Jedi",
+    "anyo": 2017,
+    "punt": 4
+  },
+  {
+    "tit": "Wonder Woman",
+    "anyo": 2017,
+    "punt": 4
+  },
+  {
+    "tit": "Despicable Me 3",
+    "anyo": 2017,
+    "punt": 4
+  },
+  {
+    "tit": "The Boss Baby",
+    "anyo": 2017,
+    "punt": 4
+  },
+  {
+    "tit": "Beauty and the Beast",
+    "anyo": 2017,
+    "punt": 4
+  },
+  {
+    "tit": "Kingsman: The Golden Circle",
+    "anyo": 2017,
+    "punt": 4
+  },
+  {
+    "tit": "Bright",
+    "anyo": 2017,
+    "punt": 2
+  },
+  {
+    "tit": "Justice League",
+    "anyo": 2017,
+    "punt": 2
+  },
+  {
+    "tit": "Abracadabra",
+    "anyo": 2017,
+    "punt": 2
+  },
+  {
+    "tit": "Diary of a Wimpy Kid: The Long Haul",
+    "anyo": 2017,
+    "punt": 2
+  },
+  {
+    "tit": "King Arthur: Legend of the Sword",
+    "anyo": 2017,
+    "punt": 2
+  },
+  {
+    "tit": "Smurfs: The Lost Village",
+    "anyo": 2017,
+    "punt": 2
+  },
+  {
+    "tit": "The Emoji Movie",
+    "anyo": 2017,
+    "punt": 1
+  },
+  {
+    "tit": "Valerian and the City of a Thousand Planets",
+    "anyo": 2017,
+    "punt": 1
+  },
+  {
+    "tit": "Smoke & Mirrors",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "Terrifier",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "Passengers",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "100 Meters",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "Heroes Wanted",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "Suicide Squad",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "Ice Age: Collision Course",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "10 Cloverfield Lane",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "LEGO Scooby-Doo! Haunted Hollywood",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "Captain Fantastic",
+    "anyo": 2016,
+    "punt": 4
+  },
+  {
+    "tit": "A Stroke of Luck",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Trolls",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Miss Peregrine's Home for Peculiar Children",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "No manches, Frida",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Ghostbusters",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "The Legend of Tarzan",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Nerve",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "The Secret Life of Pets",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Finding Dory",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Warcraft",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Gods of Egypt",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Race",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "Sing",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "The Accountant",
+    "anyo": 2016,
+    "punt": 2
+  },
+  {
+    "tit": "The Revenant",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "Absolutely Anything",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "I Am Your Father",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "The Walk",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "Hotel Transylvania 2",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "Maze Runner: The Scorch Trials",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "Scouts Guide to the Zombie Apocalypse",
+    "anyo": 2015,
+    "punt": 4
+  },
+  {
+    "tit": "Minions",
+    "anyo": 2015,
+    "punt": 3
+  },
+  {
+    "tit": "Spanish Affair 2",
+    "anyo": 2015,
+    "punt": 2
+  },
+  {
+    "tit": "The Hunger Games: Mockingjay – Part 2",
+    "anyo": 2015,
+    "punt": 2
+  },
+  {
+    "tit": "Paper Towns",
+    "anyo": 2015,
+    "punt": 2
+  },
+  {
+    "tit": "San Andreas",
+    "anyo": 2015,
+    "punt": 2
+  },
+  {
+    "tit": "Tomorrowland",
+    "anyo": 2015,
+    "punt": 2
+  },
+  {
+    "tit": "Fantastic Four",
+    "anyo": 2015,
+    "punt": 2
+  },
+  {
+    "tit": "It Follows",
+    "anyo": 2014,
+    "punt": 4
+  },
+  {
+    "tit": "Fire",
+    "anyo": 2014,
+    "punt": 4
+  },
+  {
+    "tit": "Penguins of Madagascar",
+    "anyo": 2014,
+    "punt": 4
+  },
+  {
+    "tit": "The Imitation Game",
+    "anyo": 2014,
+    "punt": 4
+  },
+  {
+    "tit": "Lucy",
+    "anyo": 2014,
+    "punt": 4
+  },
+  {
+    "tit": "Mr. Peabody & Sherman",
+    "anyo": 2014,
+    "punt": 4
+  },
+  {
+    "tit": "Godzilla",
+    "anyo": 2014,
+    "punt": 2
+  },
+  {
+    "tit": "Into the Woods",
+    "anyo": 2014,
+    "punt": 2
+  },
+  {
+    "tit": "The Hunger Games: Mockingjay – Part 1",
+    "anyo": 2014,
+    "punt": 2
+  },
+  {
+    "tit": "Hercules",
+    "anyo": 2014,
+    "punt": 2
+  },
+  {
+    "tit": "Planes: Fire & Rescue",
+    "anyo": 2014,
+    "punt": 2
+  },
+  {
+    "tit": "Spanish Affair",
+    "anyo": 2014,
+    "punt": 2
+  },
+  {
+    "tit": "Rio 2",
+    "anyo": 2014,
+    "punt": 2
+  },
+  {
+    "tit": "Pain & Gain",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Thor: The Dark World",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Iron Man 3",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Enemy",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Escape Plan",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Kick-Ass 2",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Snowpiercer",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Frozen",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "The Smurfs 2",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "White House Down",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Now You See Me",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "The Call",
+    "anyo": 2013,
+    "punt": 4
+  },
+  {
+    "tit": "Planes",
+    "anyo": 2013,
+    "punt": 3
+  },
+  {
+    "tit": "The Hunger Games: Catching Fire",
+    "anyo": 2013,
+    "punt": 3
+  },
+  {
+    "tit": "Underdogs",
+    "anyo": 2013,
+    "punt": 3
+  },
+  {
+    "tit": "The Wolverine",
+    "anyo": 2013,
+    "punt": 2
+  },
+  {
+    "tit": "Horns",
+    "anyo": 2013,
+    "punt": 2
+  },
+  {
+    "tit": "Turbo",
+    "anyo": 2013,
+    "punt": 2
+  },
+  {
+    "tit": "Epic",
+    "anyo": 2013,
+    "punt": 2
+  },
+  {
+    "tit": "Jack the Giant Slayer",
+    "anyo": 2013,
+    "punt": 2
+  },
+  {
+    "tit": "Oz the Great and Powerful",
+    "anyo": 2013,
+    "punt": 2
+  },
+  {
+    "tit": "Tad, the Lost Explorer",
+    "anyo": 2012,
+    "punt": 4
+  },
+  {
+    "tit": "Ice Age: Continental Drift",
+    "anyo": 2012,
+    "punt": 4
+  },
+  {
+    "tit": "Madagascar 3: Europe's Most Wanted",
+    "anyo": 2012,
+    "punt": 4
+  },
+  {
+    "tit": "The Lorax",
+    "anyo": 2012,
+    "punt": 4
+  },
+  {
+    "tit": "Hotel Transylvania",
+    "anyo": 2012,
+    "punt": 4
+  },
+  {
+    "tit": "The Hunger Games",
+    "anyo": 2012,
+    "punt": 3
+  },
+  {
+    "tit": "Seven Psychopaths",
+    "anyo": 2012,
+    "punt": 2
+  },
+  {
+    "tit": "A Thousand Words",
+    "anyo": 2012,
+    "punt": 2
+  },
+  {
+    "tit": "Chronicle",
+    "anyo": 2012,
+    "punt": 2
+  },
+  {
+    "tit": "Journey 2: The Mysterious Island",
+    "anyo": 2012,
+    "punt": 2
+  },
+  {
+    "tit": "The Tree of Life",
+    "anyo": 2011,
+    "punt": 4
+  },
+  {
+    "tit": "Ghost Rider: Spirit of Vengeance",
+    "anyo": 2011,
+    "punt": 4
+  },
+  {
+    "tit": "Super 8",
+    "anyo": 2011,
+    "punt": 4
+  },
+  {
+    "tit": "Puss in Boots",
+    "anyo": 2011,
+    "punt": 4
+  },
+  {
+    "tit": "The Smurfs",
+    "anyo": 2011,
+    "punt": 4
+  },
+  {
+    "tit": "Green Lantern",
+    "anyo": 2011,
+    "punt": 2
+  },
+  {
+    "tit": "Maktub",
+    "anyo": 2011,
+    "punt": 2
+  },
+  {
+    "tit": "In Time",
+    "anyo": 2011,
+    "punt": 2
+  },
+  {
+    "tit": "Zookeeper",
+    "anyo": 2011,
+    "punt": 2
+  },
+  {
+    "tit": "Hoodwinked Too! Hood VS. Evil",
+    "anyo": 2011,
+    "punt": 2
+  },
+  {
+    "tit": "Harry Potter and the Deathly Hallows: Part 1",
+    "anyo": 2010,
+    "punt": 4
+  },
+  {
+    "tit": "Yogi Bear",
+    "anyo": 2010,
+    "punt": 2
+  },
+  {
+    "tit": "Tangled",
+    "anyo": 2010,
+    "punt": 2
+  },
+  {
+    "tit": "Percy Jackson & the Olympians: The Lightning Thief",
+    "anyo": 2010,
+    "punt": 2
+  }
+]

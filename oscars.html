@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oscars | Cinser</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <div class="btn-titulo"><a href="index.html">🏆 Oscars</a></div>
+
+    <div class="barra-nav-container">
+        <button class="scroll-btn left">&#11207;</button>
+        <div id="barra" class="barra-nav-scroll"></div>
+        <button class="scroll-btn right">&#11208;</button>
+    </div>
+
+    <div id="bloques"></div>
+
+    <div class="btn-volver"><a href="index.html">Menú</a></div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <img id="modal-img" alt="">
+        </div>
+    </div>
+
+    <script src="js/posters.js"></script>
+    <script>
+        /* La Academia empezó a premiar películas de 1927 en adelante.
+           Ajusta ANIO_INICIO si tus datos empiezan en otro año. */
+        const ANIO_INICIO  = 1927;
+        const ANIO_FIN     = 2026;
+        const DEFAULT_ANIO = ANIO_FIN;
+
+        const CATEGORIAS = [
+            { clave: 'pelicula',      titulo: 'Mejor Película' },
+            { clave: 'director',      titulo: 'Mejor Director' },
+            { clave: 'guionOriginal', titulo: 'Mejor Guion Original' },
+            { clave: 'guionAdaptado', titulo: 'Mejor Guion Adaptado' },
+            { clave: 'fotografia',    titulo: 'Mejor Fotografía' },
+            { clave: 'montaje',       titulo: 'Mejor Montaje' },
+            { clave: 'sonido',        titulo: 'Mejor Sonido' },
+            { clave: 'bandaSonora',   titulo: 'Mejor Banda Sonora' },
+            { clave: 'animacion',     titulo: 'Mejor Animación' },
+            { clave: 'espanola',      titulo: 'Mejor Española' },
+        ];
+
+        const DECADAS_CATALOGO = ['1920','1930','1940','1950','1960','1970','1980','1990','2000','2010','2020'];
+
+        function decadaDe(anio) { return String(Math.floor(anio / 10) * 10); }
+
+        function getAnio() {
+            const p = parseInt(new URLSearchParams(window.location.search).get('a'));
+            return (p >= ANIO_INICIO && p <= ANIO_FIN) ? p : DEFAULT_ANIO;
+        }
+
+        function construirBarra(activo) {
+            const barra = document.getElementById('barra');
+            barra.innerHTML = '';
+            for (let a = ANIO_FIN; a >= ANIO_INICIO; a--) {
+                const btn = document.createElement('button');
+                btn.textContent = a;
+                if (a === activo) btn.classList.add('activo');
+                btn.addEventListener('click', () => {
+                    history.pushState(null, '', `?a=${a}`);
+                    cargarAnio(a);
+                    barra.querySelectorAll('button').forEach(b => b.classList.remove('activo'));
+                    btn.classList.add('activo');
+                    btn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+                });
+                barra.appendChild(btn);
+            }
+            setTimeout(() => {
+                barra.querySelector('button.activo')
+                    ?.scrollIntoView({ behavior: 'instant', block: 'nearest', inline: 'center' });
+            }, 0);
+        }
+
+        /* ── Mapa global título → { tit, anyo, punt, img }, construido una sola vez
+               a partir de todo el catálogo (json/*.json) para poder mostrar
+               póster/año real de cada película que aparece en los Oscars. ── */
+        let _catalogoPromise = null;
+        function cargarCatalogo() {
+            if (_catalogoPromise) return _catalogoPromise;
+            _catalogoPromise = Promise.all(
+                DECADAS_CATALOGO.map(d =>
+                    fetch(`json/${d}.json`).then(r => r.ok ? r.json() : []).catch(() => [])
+                )
+            ).then(listas => {
+                const mapa = new Map();
+                listas.flat().forEach(p => {
+                    const key = (p.tit || '').trim().toLowerCase();
+                    if (key && !mapa.has(key)) mapa.set(key, p);
+                });
+                return mapa;
+            });
+            return _catalogoPromise;
+        }
+
+        async function cargarAnio(anio) {
+            const decada = decadaDe(anio);
+            const bloquesEl = document.getElementById('bloques');
+            try {
+                const [res, catalogo] = await Promise.all([
+                    fetch(`Oscars/${decada}.json`),
+                    cargarCatalogo()
+                ]);
+                const data = await res.json();
+                const delAnio = data[String(anio)];
+
+                if (!delAnio) {
+                    renderOscarCategorias([], 'bloques');
+                    return;
+                }
+
+                const categorias = CATEGORIAS
+                    .map(c => {
+                        const titulos = Array.isArray(delAnio[c.clave]) ? delAnio[c.clave].slice(0, 5) : [];
+                        const lista = titulos.map(tit => {
+                            const encontrada = catalogo.get(tit.trim().toLowerCase());
+                            return encontrada
+                                ? encontrada
+                                : { tit, anyo: anio, punt: null, img: '' };
+                        });
+                        return { titulo: c.titulo, lista };
+                    })
+                    .filter(c => c.lista.length > 0);
+
+                renderOscarCategorias(categorias, 'bloques');
+            } catch (e) {
+                bloquesEl.innerHTML = '<p class="vacio">No se pudieron cargar las categorías.</p>';
+            }
+        }
+
+        const anioActual = getAnio();
+        construirBarra(anioActual);
+        cargarAnio(anioActual);
+    </script>
+</body>
+</html>

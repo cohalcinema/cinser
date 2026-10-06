@@ -1,0 +1,62 @@
+[
+  {
+    "tit": "The Third Man",
+    "anyo": 1949,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/vqnFHTx1phgTAsLfxZoejSbMVHA.jpg"
+  },
+  {
+    "tit": "Rope",
+    "anyo": 1948,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/9ar6rxLDB8kagAnXZKn6h9smscr.jpg"
+  },
+  {
+    "tit": "It's a wonderful life",
+    "anyo": 1946,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/rgj6QjdyCeDrO9KGt1kusGyhvb2.jpg"
+  },
+  {
+    "tit": "The Ox-Bow incident",
+    "anyo": 1943,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/pNTcpekkR9gp9sffqHJYOAPPcRg.jpg"
+  },
+  {
+    "tit": "The Wolf Man",
+    "anyo": 1941,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/3g8NALLvHFeN9yGXoRKrrhVp6RW.jpg"
+  },
+  {
+    "tit": "Dumbo",
+    "anyo": 1941,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/autwu5mxOTPA0UDaUK6hCrj0Nd3.jpg"
+  },
+  {
+    "tit": "Citizen Kane",
+    "anyo": 1941,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/r3iGakXud3yjP0waEqJwpDIPWI4.jpg"
+  },
+  {
+    "tit": "The great dictator",
+    "anyo": 1940,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/qmBEjnfpEnMD63DgUNCngkEEcsB.jpg"
+  },
+  {
+    "tit": "Rebecca",
+    "anyo": 1940,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/3Ngfr8sQ3cFwjCsGDmu6Qiq8bc7.jpg"
+  },
+  {
+    "tit": "Pinocchio",
+    "anyo": 1940,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/usYupoEpZOUzjLEPmd3uvvMYSYD.jpg"
+  }
+]

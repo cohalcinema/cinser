@@ -1,0 +1,368 @@
+[
+  {
+    "tit": "Life of Brian",
+    "anyo": 1979,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/lSSA64WF0M0BXnjwr2quMh6shCl.jpg"
+  },
+  {
+    "tit": "Rocky II",
+    "anyo": 1979,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/a9UbfUELZHj96tBVWnKrDrtnQcr.jpg"
+  },
+  {
+    "tit": "The Muppets Movie",
+    "anyo": 1979,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/3AQlo04wIPZjALM74SxnkEuABOy.jpg"
+  },
+  {
+    "tit": "Alien",
+    "anyo": 1979,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/ih64em743HBjcYIJXXZ5fZu4Qr1.jpg"
+  },
+  {
+    "tit": "Stalker",
+    "anyo": 1979,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/mzJxTxIODATNaYUwyJ2C2XPkhXW.jpg"
+  },
+  {
+    "tit": "Apocalypse Now",
+    "anyo": 1979,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+  },
+  {
+    "tit": "Arrebato",
+    "anyo": 1979,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/vDXSfOPLgGzmpKdPo4aBL8exxyZ.jpg"
+  },
+  {
+    "tit": "Elvis",
+    "anyo": 1979,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/86QUq3eEmInaG7WEt2to7cdJ7fr.jpg"
+  },
+  {
+    "tit": "Nosferatu the Vampyre",
+    "anyo": 1979,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/zhpZwFuv3GTZfmJwvYNpbWFN0BM.jpg"
+  },
+  {
+    "tit": "Invasion of the Body Snatchers",
+    "anyo": 1978,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/fmo301nLjKMblY7gvqjkMMoLaNz.jpg"
+  },
+  {
+    "tit": "Superman",
+    "anyo": 1978,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/shbkPTBH2i6uQKCcYAaN59FxRvq.jpg"
+  },
+  {
+    "tit": "The Deer Hunter",
+    "anyo": 1978,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/lQpI5XvSSRgTMLv1L01pFw4p1Ht.jpg"
+  },
+  {
+    "tit": "Someone's Watching Me!",
+    "anyo": 1978,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/o5pIEWzjnMMz7WgOcB6wVXayE0D.jpg"
+  },
+  {
+    "tit": "Halloween",
+    "anyo": 1978,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/bp6emCWsjq7Tn1uRBOeTi9VdYHJ.jpg"
+  },
+  {
+    "tit": "Grease",
+    "anyo": 1978,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/mFbh21chHCqAigq0iNSBvhoUaAL.jpg"
+  },
+  {
+    "tit": "Game of Death",
+    "anyo": 1978,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/dHu4gFWZmscBRjHptds4XlvbbPZ.jpg"
+  },
+  {
+    "tit": "Close Encounters of the Third Kind",
+    "anyo": 1977,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/y1lLNRrQxZ9qmkl8sByYCuCjSed.jpg"
+  },
+  {
+    "tit": "Star Wars",
+    "anyo": 1977,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/qj5Qfs1UVrc51uxwj7MlygoeuHU.jpg"
+  },
+  {
+    "tit": "Annie Hall",
+    "anyo": 1977,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/dYUCjBDU10F2EbPWHDCUHy9Geei.jpg"
+  },
+  {
+    "tit": "Eraserhead",
+    "anyo": 1977,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/rwHfOXti9IN4iEVfZOBr3Q20dFO.jpg"
+  },
+  {
+    "tit": "Suspiria",
+    "anyo": 1977,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/5t2yXW9POvfpmJBJWQX3oW7Edju.jpg"
+  },
+  {
+    "tit": "Rocky",
+    "anyo": 1976,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/vWjhSPF1c7xuddJEgfnQf9LrY47.jpg"
+  },
+  {
+    "tit": "Network",
+    "anyo": 1976,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg"
+  },
+  {
+    "tit": "Assault on Precint 13",
+    "anyo": 1976,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/hT4Ry5rN1eoAEvZaevuFAYY7SYa.jpg"
+  },
+  {
+    "tit": "The 12 tasks of Asterix",
+    "anyo": 1976,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/ohXCSEIQRcDEZyee77W35EXG4Lc.jpg"
+  },
+  {
+    "tit": "Murder by Death",
+    "anyo": 1976,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/7YGYam05qzHy0ZSzfjBSDkVvvU7.jpg"
+  },
+  {
+    "tit": "¿Quién puede matar a un niño?",
+    "anyo": 1976,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/mNwrAOUH6R5yMGypfQWsafq4d6P.jpg"
+  },
+  {
+    "tit": "Taxi Driver",
+    "anyo": 1976,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+  },
+  {
+    "tit": "One Flew Over the Cuckoo's Nest",
+    "anyo": 1975,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/tjO8B0TmLbrjqUSirfbMsoDxNx2.jpg"
+  },
+  {
+    "tit": "Dog Day Afternoon",
+    "anyo": 1975,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/cS5aXrb6TreoGEQhiQePntUK5Gk.jpg"
+  },
+  {
+    "tit": "Jaws",
+    "anyo": 1975,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg"
+  },
+  {
+    "tit": "Monty Python and the Holy Grail",
+    "anyo": 1975,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/h3rksLHevpCbHfSoaUXm85nt2CH.jpg"
+  },
+  {
+    "tit": "Deep Red",
+    "anyo": 1975,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/lerYv1oZ3C8nb4yfqcY3XI38cVa.jpg"
+  },
+  {
+    "tit": "Young Frankenstein",
+    "anyo": 1974,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/3BvvVKPg9yucChlSvQtJxAbLmj9.jpg"
+  },
+  {
+    "tit": "The godtaher: Part II",
+    "anyo": 1974,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/wzptRzCHTJNVG1uhkRZHzLYpi9R.jpg"
+  },
+  {
+    "tit": "Phantom of the Paradise",
+    "anyo": 1974,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/AkS1Pg1bUKMzfhItnoMscLY3RJn.jpg"
+  },
+  {
+    "tit": "The texas chainsaw massacre",
+    "anyo": 1974,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/b4qlhXAqUycmL5GptVChZ0JGo34.jpg"
+  },
+  {
+    "tit": "Phase IV",
+    "anyo": 1974,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/x6fQtAmCD4JlAcUnTfYoinPp1zz.jpg"
+  },
+  {
+    "tit": "The taking of Pleham one two three",
+    "anyo": 1974,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/vNhywp9w1DVG6BytxKp4kjtaaGC.jpg"
+  },
+  {
+    "tit": "Chinatown",
+    "anyo": 1974,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/tGgi5Amr8q5HnQd8KmcPfnSGV5h.jpg"
+  },
+  {
+    "tit": "Foxy Brown",
+    "anyo": 1974,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/lAeEDcBgEqnxl9l7n7i4936ERi8.jpg"
+  },
+  {
+    "tit": "Dark Star",
+    "anyo": 1974,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/kJn4FrlSXEiLngobHrxnJHMwNNx.jpg"
+  },
+  {
+    "tit": "The Exorcist",
+    "anyo": 1973,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg"
+  },
+  {
+    "tit": "The Sting",
+    "anyo": 1973,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/kB2pfUm1zptfcG9MCLQNaNxLNeI.jpg"
+  },
+  {
+    "tit": "The Last Detail",
+    "anyo": 1973,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/zQoNkO99qfaBjh5aoA0pKau1prp.jpg"
+  },
+  {
+    "tit": "The Wicker Man",
+    "anyo": 1973,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/cIMJVDksn3h4hYa4yq4IBn9DqhF.jpg"
+  },
+  {
+    "tit": "Mean Streets",
+    "anyo": 1973,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/9ZtPt2Fvrs1292DV9fqSifnQcci.jpg"
+  },
+  {
+    "tit": "El Espíritu de la Colmena",
+    "anyo": 1973,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/8v987jPdeCKfcU2uFhWqsO9sf50.jpg"
+  },
+  {
+    "tit": "F for fake",
+    "anyo": 1973,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/h0sGpYkrMyl85NKXqjOdRNqujSi.jpg"
+  },
+  {
+    "tit": "Westworld",
+    "anyo": 1973,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg"
+  },
+  {
+    "tit": "The Holy Mountain",
+    "anyo": 1973,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/ucNdTx5yBRyv8kBhNqDrXL6nixa.jpg"
+  },
+  {
+    "tit": "High Plains Drifter",
+    "anyo": 1973,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/iw8EjY3UM4nJYoiLAoGN5e0kEIl.jpg"
+  },
+  {
+    "tit": "The Long Goodbye",
+    "anyo": 1973,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg"
+  },
+  {
+    "tit": "The godfather",
+    "anyo": 1972,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/a8VbRoNV00VOvgptKyR75feJO6j.jpg"
+  },
+  {
+    "tit": "Dirty Harry",
+    "anyo": 1971,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/84dFPuK0FR0uUioJMoaPaJrHmP8.jpg"
+  },
+  {
+    "tit": "Duel",
+    "anyo": 1971,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/TQqSTbWl8M8MVHkuUxIfAsCUdY.jpg"
+  },
+  {
+    "tit": "Daisy Town",
+    "anyo": 1971,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/hKu2GtcbT95cH1O8BHbJOuIQgOu.jpg"
+  },
+  {
+    "tit": "A clockwork orange",
+    "anyo": 1971,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
+  },
+  {
+    "tit": "The French Connection",
+    "anyo": 1971,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/lnQaiIk1kFRwW819waKNl4rqeOm.jpg"
+  },
+  {
+    "tit": "Compañeros",
+    "anyo": 1970,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/6lUYzlS6ZjUnbf8ftVZdPZdzdrS.jpg"
+  },
+  {
+    "tit": "Le Cercle Rouge",
+    "anyo": 1970,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/wzfGiZhe9Quoh5iGPfrUIXKp83p.jpg"
+  }
+]

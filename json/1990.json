@@ -1,0 +1,710 @@
+[
+  {
+    "tit": "Magnolia",
+    "anyo": 1999,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/lpqyJ156pg0fAME3qisXeC3iH5E.jpg"
+  },
+  {
+    "tit": "Sleepy Hollow",
+    "anyo": 1999,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/coNhvSgZ7bpoyhEWckY6JDusuiP.jpg"
+  },
+  {
+    "tit": "Fight Club",
+    "anyo": 1999,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+  },
+  {
+    "tit": "Being John Malkovich",
+    "anyo": 1999,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/vKVUsumbCzK5Kn3aDpKM4EizKCA.jpg"
+  },
+  {
+    "tit": "The Sixth Sense",
+    "anyo": 1999,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/gsQDCaRCIJmqJeovzxOjoqTuy7v.jpg"
+  },
+  {
+    "tit": "The Iron Giant",
+    "anyo": 1999,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/ct04FCFLPImNG5thcPLRnVsZlmS.jpg"
+  },
+  {
+    "tit": "Eyes wide shut",
+    "anyo": 1999,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/5s9QAjC67S6xH1d6yJBM6XSryBt.jpg"
+  },
+  {
+    "tit": "Tarzan",
+    "anyo": 1999,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/urlu2XhSCA8gQypBJmc1nsRQz1Y.jpg"
+  },
+  {
+    "tit": "The Straight Story",
+    "anyo": 1999,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/6tvuTlbtk2pPrIe4cgNm1q2jL7M.jpg"
+  },
+  {
+    "tit": "Star Wars: Episode I The Phantom Menace",
+    "anyo": 1999,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/zJmdZWr68MNjxHOrZo65HWN2Se9.jpg"
+  },
+  {
+    "tit": "The Mummy",
+    "anyo": 1999,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/vw2HkLTahg5APvVw0PjkUVVFAt.jpg"
+  },
+  {
+    "tit": "The Matrix",
+    "anyo": 1999,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/2P14LNK2zDBf84tF016blkz4Q4C.jpg"
+  },
+  {
+    "tit": "Dying of Laughter",
+    "anyo": 1999,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/9pTnAwFOUt5NSOcKkeuNW46cwws.jpg"
+  },
+  {
+    "tit": "The Miracle of P. Tinto",
+    "anyo": 1998,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/4ZQH6pKufwjKEerTKessoURsFJE.jpg"
+  },
+  {
+    "tit": "The Prince of Egypt",
+    "anyo": 1998,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/8lroZ4KQtjkMeAdNLi1mA6O8fG3.jpg"
+  },
+  {
+    "tit": "A Bug's Life",
+    "anyo": 1998,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/rC8z84mS7JdgDAHUVd4nyPjOJOU.jpg"
+  },
+  {
+    "tit": "Lock, Stock and Two Smoking Barrels",
+    "anyo": 1998,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/v3XfhJJIaeYZLDdZztUxfG9J9oc.jpg"
+  },
+  {
+    "tit": "Blade",
+    "anyo": 1998,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/oWT70TvbsmQaqyphCZpsnQR7R32.jpg"
+  },
+  {
+    "tit": "Snake Eyes",
+    "anyo": 1998,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/bKEuGZFoGBbMvr20qu3cAZR0uaF.jpg"
+  },
+  {
+    "tit": "Saving Private Ryan",
+    "anyo": 1998,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/32Mr4mNRpyqUOjZMXkuFQeodVjE.jpg"
+  },
+  {
+    "tit": "Armageddon",
+    "anyo": 1998,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/u2cK4FVHVOm7ccXlzhSmmKdCYOz.jpg"
+  },
+  {
+    "tit": "The Truman Show",
+    "anyo": 1998,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/6qJmMVYkTdWYMMe0zWdBGUpYWnz.jpg"
+  },
+  {
+    "tit": "Batman & Mr. Freeze: SubZero",
+    "anyo": 1998,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/2HgoTD6QoitWpOikQcbbmJWMZqS.jpg"
+  },
+  {
+    "tit": "Ring",
+    "anyo": 1998,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/zQYqnNser5Av3XDfImmEg4MxzEZ.jpg"
+  },
+  {
+    "tit": "The Big Lebowski",
+    "anyo": 1998,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/bPyv7EXHoz6xOeq1EbE2nnGM7H1.jpg"
+  },
+  {
+    "tit": "Scream 2",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/3wPIpfYWf6XtmzpwvVZ86dUOcyO.jpg"
+  },
+  {
+    "tit": "Jackie Brown",
+    "anyo": 1997,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg"
+  },
+  {
+    "tit": "Good Will Hunting",
+    "anyo": 1997,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+  },
+  {
+    "tit": "Cure",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/hjBudreNpdWJ791jubJ10IuPGMr.jpg"
+  },
+  {
+    "tit": "Alien Resurrection",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/bo6TCzRoyIuiedMhVX8nYoeQcky.jpg"
+  },
+  {
+    "tit": "Titanic",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/6jBDT30Y4c9yWz9ZP37IuUDuQs5.jpg"
+  },
+  {
+    "tit": "Boogie Nights",
+    "anyo": 1997,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg"
+  },
+  {
+    "tit": "Cube",
+    "anyo": 1997,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg"
+  },
+  {
+    "tit": "The Game",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/4UOa079915QjiTA2u5hT2yKVgUu.jpg"
+  },
+  {
+    "tit": "Event Horizon",
+    "anyo": 1997,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/4TcUdAA132e9OML96IhvlrNxKtH.jpg"
+  },
+  {
+    "tit": "Cop Land",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/dyOqXyPCQh8VF0KA5aelBCCQond.jpg"
+  },
+  {
+    "tit": "Men in Black",
+    "anyo": 1997,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/W23GMbLJVD3QdjuwjKI938A0iO.jpg"
+  },
+  {
+    "tit": "Airbag",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/6jlYPzB7igECT2xrZnFx9cF3vuz.jpg"
+  },
+  {
+    "tit": "Hercules",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/4AXjZNp7n6lvKGCclyZr9c7M3vT.jpg"
+  },
+  {
+    "tit": "Con Air",
+    "anyo": 1997,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/jXzmMBv2hJ9OUt7eMDHbPhIKSc7.jpg"
+  },
+  {
+    "tit": "Funny Games",
+    "anyo": 1997,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg"
+  },
+  {
+    "tit": "Lost Highway",
+    "anyo": 1997,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/xzzBe6D5smTY3WlhMZRj4oW9mym.jpg"
+  },
+  {
+    "tit": "Scream",
+    "anyo": 1996,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/xxGgN42kPfzMm8QfNg4C9t6s42r.jpg"
+  },
+  {
+    "tit": "Mars Attacks!",
+    "anyo": 1996,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/m6BxrwE9RL6ly1B7841n7UTSCQE.jpg"
+  },
+  {
+    "tit": "Jingle All the Way",
+    "anyo": 1996,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/td3ys8b71knBc9KF2w8wkLxTAns.jpg"
+  },
+  {
+    "tit": "Space Jam",
+    "anyo": 1996,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/znDdhvgqjPX9C9Kid6OWIDfxZ9o.jpg"
+  },
+  {
+    "tit": "The Hunchback of Notre Dame",
+    "anyo": 1996,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/dmMBtXuFzZzLYgeQXkOkg98w2Ak.jpg"
+  },
+  {
+    "tit": "Mission: Impossible",
+    "anyo": 1996,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg"
+  },
+  {
+    "tit": "Twister",
+    "anyo": 1996,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/opR82XVNZ5A57FcQmxtNniKwR1Y.jpg"
+  },
+  {
+    "tit": "Thesis",
+    "anyo": 1996,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/lqIQE6VfShKU07cUX2J7OE6Y9aX.jpg"
+  },
+  {
+    "tit": "Fargo",
+    "anyo": 1996,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg"
+  },
+  {
+    "tit": "Trainspotting",
+    "anyo": 1996,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/h3eo1LO9bUjSpOWh0otuC14HKy4.jpg"
+  },
+  {
+    "tit": "From Dusk Till Dawn",
+    "anyo": 1996,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/xs8xS14Oyhz0GpXQHpAc1hritOW.jpg"
+  },
+  {
+    "tit": "Balto",
+    "anyo": 1995,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/yMREwJaQngERIqaHTIJ6RSQRexY.jpg"
+  },
+  {
+    "tit": "Jumanji",
+    "anyo": 1995,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg"
+  },
+  {
+    "tit": "Twelve Monkeys",
+    "anyo": 1995,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/69Mf6apSKzVCC4bzC8UjL837TMr.jpg"
+  },
+  {
+    "tit": "Heat",
+    "anyo": 1995,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/fx7OTQ4iO6sUF9E2dnkySiAdWPm.jpg"
+  },
+  {
+    "tit": "Toy Story",
+    "anyo": 1995,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/zWrBShfKEFVBJiOcDiAETmdQBjC.jpg"
+  },
+  {
+    "tit": "Casino",
+    "anyo": 1995,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/hPQRI38igifBMZYC4TVlSBsIV2d.jpg"
+  },
+  {
+    "tit": "Four Rooms",
+    "anyo": 1995,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/6bfse0DYxnn9xmh9l2UX8XWRO6J.jpg"
+  },
+  {
+    "tit": "Se7en",
+    "anyo": 1995,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/wdIKE80xQglUAgl226HiwBVy6Zb.jpg"
+  },
+  {
+    "tit": "Fallen Angels",
+    "anyo": 1995,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/dlcVN0dt2Bd7zwDGSU7rQEI6B0C.jpg"
+  },
+  {
+    "tit": "El día de la bestia",
+    "anyo": 1995,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/zSyv4UqdJIjyGZ5xBrpENET8MI.jpg"
+  },
+  {
+    "tit": "Batman Forever",
+    "anyo": 1995,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/5Dt7YWiWHOetjCZn91aZeVGJadG.jpg"
+  },
+  {
+    "tit": "The Bridges of Madison County",
+    "anyo": 1995,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg"
+  },
+  {
+    "tit": "La Haine",
+    "anyo": 1995,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/v0vEwYyZMkkkwD7OHjulTZU65UE.jpg"
+  },
+  {
+    "tit": "Braveheart",
+    "anyo": 1995,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/uvHzn4MPPCQ43sCBOJQj7Gzr0a3.jpg"
+  },
+  {
+    "tit": "Die Hard With a Vengeance",
+    "anyo": 1995,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg"
+  },
+  {
+    "tit": "Village of the Damned",
+    "anyo": 1995,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/9OOsNm1DrXWaYKp9cWZ3iYf1uFb.jpg"
+  },
+  {
+    "tit": "The Usual Suspects",
+    "anyo": 1995,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/oXS058YESy8avz8DVgaSxTBhMQZ.jpg"
+  },
+  {
+    "tit": "Before sunrise",
+    "anyo": 1995,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/pb97VEtBVfSsAeToyHcRT4F4kIE.jpg"
+  },
+  {
+    "tit": "The Shawshank Redemption",
+    "anyo": 1994,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/hBcY0fE9pfXzvVaY4GKarweriG2.jpg"
+  },
+  {
+    "tit": "In the Mouth of Madness",
+    "anyo": 1994,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg"
+  },
+  {
+    "tit": "The Mask",
+    "anyo": 1994,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg"
+  },
+  {
+    "tit": "Forrest Gump",
+    "anyo": 1994,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+  },
+  {
+    "tit": "The Lion King",
+    "anyo": 1994,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/kXBs43IDgNZyAm41Cd90UqDBoVe.jpg"
+  },
+  {
+    "tit": "Pulp Fiction",
+    "anyo": 1994,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+  },
+  {
+    "tit": "Batman: Mask of the Phantasm",
+    "anyo": 1993,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/j7uU1xYjXl6Kpmg5os0oHSTPaIV.jpg"
+  },
+  {
+    "tit": "Schindler's List",
+    "anyo": 1993,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+  },
+  {
+    "tit": "The nightmare before Christmas",
+    "anyo": 1993,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/qWcRG2rfrc87vII5eIPsAWPOpgW.jpg"
+  },
+  {
+    "tit": "Demolition Man",
+    "anyo": 1993,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/pxWuGsyzVQSqHWxVQLy4XUcopIL.jpg"
+  },
+  {
+    "tit": "True Romance",
+    "anyo": 1993,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/AqlPzcILRi0IW0JodKp7pMMNEFt.jpg"
+  },
+  {
+    "tit": "Jurassic Park",
+    "anyo": 1993,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/fm6o48Ugu8jdg7MLB3EVNMVJx0q.jpg"
+  },
+  {
+    "tit": "Groundhog Day",
+    "anyo": 1993,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/59s6oPpoNaN1K8bU1iknuSYrlOE.jpg"
+  },
+  {
+    "tit": "Acción Mutante",
+    "anyo": 1993,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/t4srw6JlV0VWYi41bldHM3s0c3o.jpg"
+  },
+  {
+    "tit": "Aladdin",
+    "anyo": 1992,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/cBH3LwRdhWFD2eDQm912vdNbwQQ.jpg"
+  },
+  {
+    "tit": "Army of Darkness",
+    "anyo": 1992,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/pgyeGpa2BXrHv148O93F9X5qg2o.jpg"
+  },
+  {
+    "tit": "Unforgiven",
+    "anyo": 1992,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/qrOhh9ZWJyNXje2L4ELBgkNEg8a.jpg"
+  },
+  {
+    "tit": "Batman Returns",
+    "anyo": 1992,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/r8AhTb9MXhFfwIfn0OiLlHpnwcv.jpg"
+  },
+  {
+    "tit": "Porco Rosso",
+    "anyo": 1992,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/jMTwVQuNnA55YaUh7nsYPXUNs41.jpg"
+  },
+  {
+    "tit": "Sister Act",
+    "anyo": 1992,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/z95Y0wa4tG3vGmeR2NnIXAMORS2.jpg"
+  },
+  {
+    "tit": "Alien³",
+    "anyo": 1992,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/6vWHGE0IZCkp1o4cqJ7PqqlYC1s.jpg"
+  },
+  {
+    "tit": "Twin Peaks: Fire Walk With Me",
+    "anyo": 1992,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/3JOLZ2tKXEbloFFrnwLjElPr8xF.jpg"
+  },
+  {
+    "tit": "Bad Lieutenant",
+    "anyo": 1992,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/aP7TcD43VC52lZZb93mq3aFre2R.jpg"
+  },
+  {
+    "tit": "Reservoir Dogs",
+    "anyo": 1992,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/dFY09DxNUyjNrvNqbl6G5mvzFEc.jpg"
+  },
+  {
+    "tit": "The Last Boy Scout",
+    "anyo": 1991,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/glPswihcZYoAQ4YM2uJF4UACy8T.jpg"
+  },
+  {
+    "tit": "Cape Fear",
+    "anyo": 1991,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/qDdRicYUow2zqYLySszzcR3RKJg.jpg"
+  },
+  {
+    "tit": "Beauty and the Beast",
+    "anyo": 1991,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/6DDJ8o2d6T4fpGWECLF4xBGTyAM.jpg"
+  },
+  {
+    "tit": "Terminator 2: Judgamen Day",
+    "anyo": 1991,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/5M0j0B18abtBI5gi2RhfjjurTqb.jpg"
+  },
+  {
+    "tit": "The Rocketeer",
+    "anyo": 1991,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/lUUChNwHMrdHyDMgHFjyvDrrdrw.jpg"
+  },
+  {
+    "tit": "Thelma & Louise",
+    "anyo": 1991,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/7D2DqmIKpPlkCU0RLVdlKLKR7XZ.jpg"
+  },
+  {
+    "tit": "Barton Fink",
+    "anyo": 1991,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/saGx5b5pN15KzSi1m6AsbbUSu2y.jpg"
+  },
+  {
+    "tit": "The Silence of the Lambs",
+    "anyo": 1991,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/uZErAN45ot0llq2CtLi9yQMVRY0.jpg"
+  },
+  {
+    "tit": "Kindergarten Cop",
+    "anyo": 1990,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/y4SHerZ1AWTW4ivVZ1Sm9SLVkAs.jpg"
+  },
+  {
+    "tit": "The Godfather Part III",
+    "anyo": 1990,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/82w2OlQbZFbN6KpeyTA6L3obYEO.jpg"
+  },
+  {
+    "tit": "Edward Scissorhands",
+    "anyo": 1990,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/6VYqB8b06NUJ168f1PBwnG8Hlsn.jpg"
+  },
+  {
+    "tit": "Misery",
+    "anyo": 1990,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/rRjnjq1v552Y2ipTO7ZIbMpDjQV.jpg"
+  },
+  {
+    "tit": "Predator 2",
+    "anyo": 1990,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/fFrJNQEnONMdI2lOI1brlbLM2WA.jpg"
+  },
+  {
+    "tit": "Home Alone",
+    "anyo": 1990,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/qAlC9aGHz5ILswVMSuyFtA5tdAD.jpg"
+  },
+  {
+    "tit": "Miller's Crossing",
+    "anyo": 1990,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/9v6DHEuH8bCrAa0CyChtLSY3e5A.jpg"
+  },
+  {
+    "tit": "I Hired a Contract Killer",
+    "anyo": 1990,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/qSnR4Fgyxd1w8QMDhs86sYcy8zr.jpg"
+  },
+  {
+    "tit": "GoodFellas",
+    "anyo": 1990,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/53TskWv9AHKPtKAUxMGABMxpO6G.jpg"
+  },
+  {
+    "tit": "Darkman",
+    "anyo": 1990,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/oHKiw3YJFrXalAMPw4zuXbYu1SS.jpg"
+  },
+  {
+    "tit": "Die Hard 2",
+    "anyo": 1990,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/56QECFJxueUVJAppVxwEE9ZDYrn.jpg"
+  },
+  {
+    "tit": "Dick Tracy",
+    "anyo": 1990,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/mH5Fm0jzTvJSIzvvoJoFs1RC0ac.jpg"
+  },
+  {
+    "tit": "Total Recall",
+    "anyo": 1990,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/b9zcFwXgQNsBuuJLabnturzyCir.jpg"
+  },
+  {
+    "tit": "Back to the future part III",
+    "anyo": 1990,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg"
+  },
+  {
+    "tit": "Wild at heart",
+    "anyo": 1990,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/kHeSsHOQrhObVqtldfaq1iEKJSI.jpg"
+  }
+]

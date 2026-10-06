@@ -1,0 +1,584 @@
+[
+  {
+    "tit": "Back to the future part II",
+    "anyo": 1989,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/eTtNEJnxsTFRoqFhsjknEk5WUlh.jpg"
+  },
+  {
+    "tit": "Great Balls of Fire!",
+    "anyo": 1989,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/bpoXA8jCMLafikVcuCPPTd99Wmr.jpg"
+  },
+  {
+    "tit": "Batman",
+    "anyo": 1989,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/31Op3Lb41p50VQKYQGQNScsQe6O.jpg"
+  },
+  {
+    "tit": "Dead Poets Society",
+    "anyo": 1989,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/l5NbiHKUmahlAT3Q1ig8Tyl9xrc.jpg"
+  },
+  {
+    "tit": "Indiana Jones and the last crusade",
+    "anyo": 1989,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/mp1ddK0uJA0PzZSTpDv5Ucpd4V1.jpg"
+  },
+  {
+    "tit": "Do the Right Thing",
+    "anyo": 1989,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/oAeLEyWYObkLmYbRnPQAKBUAQw3.jpg"
+  },
+  {
+    "tit": "Leningrad cowboys go America",
+    "anyo": 1989,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/rYI5IAKwqOl6nPcAYL58VzI0EXN.jpg"
+  },
+  {
+    "tit": "The Naked Gun: From the Files of Police Squad!",
+    "anyo": 1988,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg"
+  },
+  {
+    "tit": "The Land Before Time",
+    "anyo": 1988,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/uKudm9QDe3tmKizRoNhdT7uPNot.jpg"
+  },
+  {
+    "tit": "They Live",
+    "anyo": 1988,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/v1A2IddlBQiyyUhrYgpqFfzjgT7.jpg"
+  },
+  {
+    "tit": "Cinema Paradiso",
+    "anyo": 1988,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/aabXqJIleiFoS3VTrnmzQjXzM72.jpg"
+  },
+  {
+    "tit": "Vampire's Kiss",
+    "anyo": 1988,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/slcoU98GPL1AgDuKyfGIMQOYUWA.jpg"
+  },
+  {
+    "tit": "Die hard",
+    "anyo": 1988,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg"
+  },
+  {
+    "tit": "Who Framed Roger Rabbit",
+    "anyo": 1988,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/gnSz57OVpY2ozhHTWULXr398px4.jpg"
+  },
+  {
+    "tit": "Akira",
+    "anyo": 1988,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg"
+  },
+  {
+    "tit": "Big",
+    "anyo": 1988,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/nTY8Zmv7mpumDfzide6GSrekAgQ.jpg"
+  },
+  {
+    "tit": "My Neighbor Totoro",
+    "anyo": 1988,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg"
+  },
+  {
+    "tit": "Beetlejuice",
+    "anyo": 1988,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/dZiNcwu4tHA7fS45WnYy8N3EFPD.jpg"
+  },
+  {
+    "tit": "Women on the Verge of a Nervous Breakdown",
+    "anyo": 1988,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/hrKTdxVnAToD1xYLvPgDkYPMLEC.jpg"
+  },
+  {
+    "tit": "The Running Man",
+    "anyo": 1987,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/GTAUOhO4BN0peJVvxGEQydJvUO.jpg"
+  },
+  {
+    "tit": "Prince of Darkness",
+    "anyo": 1987,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/ioKLYboPkieu2OvTzrZnkFLoBA0.jpg"
+  },
+  {
+    "tit": "Near Dark",
+    "anyo": 1987,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/cvvz95fAMDFFTzFmg27XCkHbHtU.jpg"
+  },
+  {
+    "tit": "RoboCop",
+    "anyo": 1987,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/8u1M0VCuVOPfN7XCDEiBKlBy3fy.jpg"
+  },
+  {
+    "tit": "Spaceballs",
+    "anyo": 1987,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/kNbaxEsnCyWBTfANVPHayujBsxp.jpg"
+  },
+  {
+    "tit": "Full metal jacket",
+    "anyo": 1987,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/350ra2pDfxl7ywQW0IscBoMm2yC.jpg"
+  },
+  {
+    "tit": "Predator",
+    "anyo": 1987,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/yXA4teFVPqfRdCG9hwBYUs8qUYh.jpg"
+  },
+  {
+    "tit": "The untouchables",
+    "anyo": 1987,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/wL2vXcofWuzEKDiAjKMIpm10unx.jpg"
+  },
+  {
+    "tit": "Evil Dead II",
+    "anyo": 1987,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/vet69sC3tLIZ1JggELwavOUAWAJ.jpg"
+  },
+  {
+    "tit": "Raising Arizona",
+    "anyo": 1987,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/lkUlKXzI7Osaee4dGWKEX54FR8Q.jpg"
+  },
+  {
+    "tit": "Lethal Weapon",
+    "anyo": 1987,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg"
+  },
+  {
+    "tit": "A Nightmare on Elm Street 3: Dream Warriors",
+    "anyo": 1987,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/j1rmUJG2AGpx9mZ2OyBYfJl5M7F.jpg"
+  },
+  {
+    "tit": "Where Is the Friend's House?",
+    "anyo": 1987,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/9xTPY6PiBC6IJgT44CBZ5ffyBdg.jpg"
+  },
+  {
+    "tit": "Asterix in Britain",
+    "anyo": 1986,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/10L5R1l03MqDx36e0LJ99NKLGD3.jpg"
+  },
+  {
+    "tit": "The Color of Money",
+    "anyo": 1986,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/h9GnYRT9W9DAGuTNlXaRTdquv3G.jpg"
+  },
+  {
+    "tit": "Blue velvet",
+    "anyo": 1986,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/3t2HWNJUGPkTZIO7COd9a3vzu1H.jpg"
+  },
+  {
+    "tit": "The Texas Chainsaw Massacre 2",
+    "anyo": 1986,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/uJxhRL0Mall4I5gf6MuLzO5rT31.jpg"
+  },
+  {
+    "tit": "The Fly",
+    "anyo": 1986,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg"
+  },
+  {
+    "tit": "Aliens",
+    "anyo": 1986,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/h8rGnGmGinYNzHmk5VlxkUZUU9w.jpg"
+  },
+  {
+    "tit": "Big Trouble in Little China",
+    "anyo": 1986,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/aeGy6SZua7eFXEZP9zAvrLkkbI2.jpg"
+  },
+  {
+    "tit": "Cobra",
+    "anyo": 1986,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/m8SxNRjYpqMYGsco3aYNXBEE64A.jpg"
+  },
+  {
+    "tit": "Down by Law",
+    "anyo": 1986,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/ztMD63GStdb60zsAnDlVo9gihwT.jpg"
+  },
+  {
+    "tit": "Top Gun",
+    "anyo": 1986,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/fmXOY1bdRJ9CmzroeaTXRyr6qyz.jpg"
+  },
+  {
+    "tit": "Rocky IV",
+    "anyo": 1985,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/v33qcJ5NTYIcoII9CB0A8rSU8VA.jpg"
+  },
+  {
+    "tit": "Re-Animator",
+    "anyo": 1985,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/2A0I5HmAveRHbrFB2YvO8VIwXJw.jpg"
+  },
+  {
+    "tit": "After Hours",
+    "anyo": 1985,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/3eLTAg0A7Ae66D5dkn4c7akpR39.jpg"
+  },
+  {
+    "tit": "Come and See",
+    "anyo": 1985,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/2Bnv2VfHNylOS75tSVlKz867Bsr.jpg"
+  },
+  {
+    "tit": "Back to the future",
+    "anyo": 1985,
+    "punt": 10,
+    "img": "https://media.themoviedb.org/t/p/w440_and_h660_face/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg"
+  },
+  {
+    "tit": "The Goonies",
+    "anyo": 1985,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/cGxRqZKT92xv5iPji0yrsBkVyGi.jpg"
+  },
+  {
+    "tit": "Ran",
+    "anyo": 1985,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg"
+  },
+  {
+    "tit": "Asterix vs. Caesar",
+    "anyo": 1985,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/8LlqOgKKU0BeZzEo1PMMIjtLuj4.jpg"
+  },
+  {
+    "tit": "Brazil",
+    "anyo": 1985,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg"
+  },
+  {
+    "tit": "Starman",
+    "anyo": 1984,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/6XXcNCC42JFy5oeBwoujj5B2IJ2.jpg"
+  },
+  {
+    "tit": "Dune",
+    "anyo": 1984,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/zNhbUDdlJSymHFgEyOKF7QaUo9I.jpg"
+  },
+  {
+    "tit": "A Nightmare on Elm Street",
+    "anyo": 1984,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/foptePzNYcQr5NOMgrMDR9LwFP.jpg"
+  },
+  {
+    "tit": "The terminator",
+    "anyo": 1984,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/hCX5lNDcA6LJBri0ubhIYKSyPNe.jpg"
+  },
+  {
+    "tit": "The Karate Kid",
+    "anyo": 1984,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/eN1JbhuLkvtOugCTXWIR5LWPFO2.jpg"
+  },
+  {
+    "tit": "Top Secret!",
+    "anyo": 1984,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/yycNBpC9g8IBu8VngjoIepz3A0s.jpg"
+  },
+  {
+    "tit": "Gremlins",
+    "anyo": 1984,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/aMKnFExS8QnHkgBY4kz96LaINNf.jpg"
+  },
+  {
+    "tit": "Ghostbusters",
+    "anyo": 1984,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/h5Qz8J4T8YQnbZzHXM73WVYYVPK.jpg"
+  },
+  {
+    "tit": "Once Upon a Time in America",
+    "anyo": 1984,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/oIMB5CLW2UiU0KrU1tUuFNbqXRP.jpg"
+  },
+  {
+    "tit": "Indiana Jones and the temple of doom",
+    "anyo": 1984,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/wu0m7HiZyZr4pOp8IpnFHNvGkVV.jpg"
+  },
+  {
+    "tit": "Friday the 13th: The Final Chapter",
+    "anyo": 1984,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/4ZNSUASgZabDiu1BSM542JHdKEL.jpg"
+  },
+  {
+    "tit": "Blood Simple",
+    "anyo": 1984,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg"
+  },
+  {
+    "tit": "Christine",
+    "anyo": 1983,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/5n2UeaE4VAxIAvSRaIxfbhU4gPw.jpg"
+  },
+  {
+    "tit": "Crime and Punishment",
+    "anyo": 1983,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/2z9EotczX6EY2oxhHU6PnpDmrrI.jpg"
+  },
+  {
+    "tit": "Scarface",
+    "anyo": 1983,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg"
+  },
+  {
+    "tit": "Return of the Jedi",
+    "anyo": 1983,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/40HKwFzsPoukpQVYcM1bSWQWNkX.jpg"
+  },
+  {
+    "tit": "Monty Python's The Meaning of Life",
+    "anyo": 1983,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/9yavZ9WgEZIpWi2EbVW8At9RPdo.jpg"
+  },
+  {
+    "tit": "The King of Comedy",
+    "anyo": 1982,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/3sGuQv0UxfjDODCC9IQG5S1jXK8.jpg"
+  },
+  {
+    "tit": "First blood",
+    "anyo": 1982,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/8E7dasNsPizYTwehUs30HfvdVGU.jpg"
+  },
+  {
+    "tit": "Friday the 13th Part III",
+    "anyo": 1982,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/Qn3mlRL3vnn6cekBIND1YWBsPz.jpg"
+  },
+  {
+    "tit": "Blade Runner",
+    "anyo": 1982,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/6qrG8bUMAH9sMJOpNoXnAXJ6e6M.jpg"
+  },
+  {
+    "tit": "The thing",
+    "anyo": 1982,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/ihJPnP99osmhi9ifNiyey3XZGQH.jpg"
+  },
+  {
+    "tit": "Rocky III",
+    "anyo": 1982,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/dgahX5jL5TgBr6tu4CZklDeiezd.jpg"
+  },
+  {
+    "tit": "E.T. the Extra-Terrestrial",
+    "anyo": 1982,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/nAkRn4N4eYk6u8MJkx4nZqJojYL.jpg"
+  },
+  {
+    "tit": "Poltergeist",
+    "anyo": 1982,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/xPazCcKp62IshnLVf9BLAjf9vgC.jpg"
+  },
+  {
+    "tit": "Conan the Barbarian",
+    "anyo": 1982,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/hgUJM8Kv5LPXvaQGNjTHS1ZFND3.jpg"
+  },
+  {
+    "tit": "Mad Max 2",
+    "anyo": 1981,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/6tMQOt7VBvi2akhHvWusEO4Dauu.jpg"
+  },
+  {
+    "tit": "The Evil Dead",
+    "anyo": 1981,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/li05U702n3FzwX2mYtjDBVzeWio.jpg"
+  },
+  {
+    "tit": "Heavy Metal",
+    "anyo": 1981,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/w67FyGmszYyb6RM7p9BgV8cfG7p.jpg"
+  },
+  {
+    "tit": "Blow Out",
+    "anyo": 1981,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg"
+  },
+  {
+    "tit": "Escape to Victory",
+    "anyo": 1981,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/3j6H0dnbvjNXLK1l9nKguXw5vvO.jpg"
+  },
+  {
+    "tit": "Raiders of the lost ark",
+    "anyo": 1981,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/nJp1pzo4lvaIQQtecIdiHpWxr2g.jpg"
+  },
+  {
+    "tit": "Friday the 13th Part 2",
+    "anyo": 1981,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/4I8WINv7P0Nb5ZB3WqjU3sUCdur.jpg"
+  },
+  {
+    "tit": "Escape from New York",
+    "anyo": 1981,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/yreqWiQ7IOkXWVB2Tz4LJIs7xqA.jpg"
+  },
+  {
+    "tit": "El crack",
+    "anyo": 1981,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/thPZa2lHHV8wJu71kOHTR90OQ3p.jpg"
+  },
+  {
+    "tit": "Faster, Faster",
+    "anyo": 1981,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/7CbZ7n4Lqjc6lazvXcp0MRyJHx3.jpg"
+  },
+  {
+    "tit": "My Bloody Valentine",
+    "anyo": 1981,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/sxRaSrVvWBZVeqNYpx0xesStxUd.jpg"
+  },
+  {
+    "tit": "Heaven's Gate",
+    "anyo": 1980,
+    "punt": 5,
+    "img": "https://image.tmdb.org/t/p/original/vZRwlvCOhdeRhJvluwQlX9YIfoE.jpg"
+  },
+  {
+    "tit": "Raging Bull",
+    "anyo": 1980,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/fR3amEa7RL5TXbYJYu2xXcS7OGe.jpg"
+  },
+  {
+    "tit": "The elephant man",
+    "anyo": 1980,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg"
+  },
+  {
+    "tit": "Airplane!",
+    "anyo": 1980,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/hiURvJjCgk0s10urHVCg80TFF11.jpg"
+  },
+  {
+    "tit": "The Blues Brothers",
+    "anyo": 1980,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg"
+  },
+  {
+    "tit": "The shining",
+    "anyo": 1980,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/hCE09C7pOYkiXVSY0HjAUcmTBh0.jpg"
+  },
+  {
+    "tit": "The Empire Strikes Back",
+    "anyo": 1980,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/7LdIsQNiUjJsflf6idcAK6AIvyC.jpg"
+  },
+  {
+    "tit": "Friday the 13th",
+    "anyo": 1980,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg"
+  },
+  {
+    "tit": "The Fog",
+    "anyo": 1980,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/jnGsJGKr7fwNnzNh3Zs3FwtJqfG.jpg"
+  }
+]

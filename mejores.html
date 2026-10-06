@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mejores | Cinser</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <div class="btn-titulo"><a href="index.html">🏆 Mejores</a></div>
+
+    <div class="barra-nav-container">
+        <button class="scroll-btn left">&#11207;</button>
+        <div id="barra" class="barra-nav-scroll"></div>
+        <button class="scroll-btn right">&#11208;</button>
+    </div>
+
+    <div id="bloques"></div>
+
+    <div class="btn-volver"><a href="index.html">Menú</a></div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <img id="modal-img" alt="">
+        </div>
+    </div>
+
+    <script src="js/posters.js"></script>
+    <script>
+        const DECADAS = ['2020','2010','2000','1990','1980','1970','1960','1950','1940','1930','1920'];
+        const DEFAULT_DECADA = '2020';
+
+        function getDecada() {
+            const p = new URLSearchParams(window.location.search).get('d');
+            return DECADAS.includes(p) ? p : DEFAULT_DECADA;
+        }
+
+        function construirBarra(activa) {
+            const barra = document.getElementById('barra');
+            barra.innerHTML = '';
+            DECADAS.forEach(d => {
+                const btn = document.createElement('button');
+                btn.textContent = d;
+                if (d === activa) btn.classList.add('activo');
+                btn.addEventListener('click', () => {
+                    history.pushState(null, '', `?d=${d}`);
+                    cargarDecada(d);
+                    barra.querySelectorAll('button').forEach(b => b.classList.remove('activo'));
+                    btn.classList.add('activo');
+                });
+                barra.appendChild(btn);
+            });
+        }
+
+        async function cargarDecada(decada) {
+            try {
+                const res  = await fetch(`json/${decada}.json`);
+                const data = await res.json();
+                const diez  = shuffle(data.filter(p => p.punt === 10));
+                const nueve = shuffle(data.filter(p => p.punt === 9));
+                renderBloques([
+                    { titulo: '★★★★★  10', lista: diez  },
+                    { titulo: '★★★★½  9',  lista: nueve },
+                ], 'bloques');
+            } catch(e) {
+                document.getElementById('bloques').innerHTML =
+                    '<p class="vacio">No se pudieron cargar las películas.</p>';
+            }
+        }
+
+        const decadaActual = getDecada();
+        construirBarra(decadaActual);
+        cargarDecada(decadaActual);
+    </script>
+</body>
+</html>

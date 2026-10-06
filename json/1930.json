@@ -1,0 +1,80 @@
+[
+  {
+    "tit": "Gone with the Wind",
+    "anyo": 1939,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/ueW0eN3jdaXlpQTna5FY0O9YM0X.jpg"
+  },
+  {
+    "tit": "The Wizard of Oz",
+    "anyo": 1939,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/tG1jHazk4ZUR4WsfRLSuAzglOgD.jpg"
+  },
+  {
+    "tit": "Stagecoach",
+    "anyo": 1939,
+    "punt": 10,
+    "img": "https://image.tmdb.org/t/p/original/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg"
+  },
+  {
+    "tit": "Modern Times",
+    "anyo": 1936,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/4bSPnKcJxA4aR19Wjz5OdB9QnSn.jpg"
+  },
+  {
+    "tit": "A Night at the Opera",
+    "anyo": 1935,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg"
+  },
+  {
+    "tit": "Bride of Frankenstein",
+    "anyo": 1935,
+    "punt": 7,
+    "img": "https://image.tmdb.org/t/p/original/cHHhhSh09wB4I9A7fRl5MersG49.jpg"
+  },
+  {
+    "tit": "Duck Soup",
+    "anyo": 1933,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/t1yoElJ5KphZG2eRgy2H8HDr3t2.jpg"
+  },
+  {
+    "tit": "The Invisible Man",
+    "anyo": 1933,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/vWm5jA70wJoKcQRgJTtoy7UjdFq.jpg"
+  },
+  {
+    "tit": "Scarface",
+    "anyo": 1932,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/bjlIXlT1FQ6dJyvyCV68Q43mmmM.jpg"
+  },
+  {
+    "tit": "Frankenstein",
+    "anyo": 1931,
+    "punt": 9,
+    "img": "https://image.tmdb.org/t/p/original/e4FLbk30RNig2sePz2svf1f5FVA.jpg"
+  },
+  {
+    "tit": "M",
+    "anyo": 1931,
+    "punt": 8,
+    "img": "https://image.tmdb.org/t/p/original/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg"
+  },
+  {
+    "tit": "Dracula",
+    "anyo": 1931,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/6qXBYSjpTRtSRhegX9SLlV3bERn.jpg"
+  },
+  {
+    "tit": "City Lights",
+    "anyo": 1931,
+    "punt": 6,
+    "img": "https://image.tmdb.org/t/p/original/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg"
+  }
+]
