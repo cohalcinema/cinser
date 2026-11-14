@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explorar | Cinser</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <div class="btn-titulo"><a href="index.html" id="titulo">🧭 Explorar</a></div>
+
+    <div class="menu-wrap" id="menus"></div>
+
+    <div class="btn-volver"><a href="index.html">Menú</a></div>
+
+    <script src="js/cinser.js"></script>
+    <script>
+        const params  = new URLSearchParams(window.location.search);
+        const tipoKey = TIPOS[params.get('tipo')] ? params.get('tipo') : 'dir';
+        const T       = TIPOS[tipoKey];
+
+        document.getElementById('titulo').textContent = `${T.icono} ${T.menu}`;
+        document.title = `${T.menu} | Cinser`;
+
+        async function cargar() {
+            const { todos } = await cargarPelis();
+            const root = document.getElementById('menus');
+
+            /* Lista alfabética de todos los directores / grupos */
+            const nombres = [...new Set(todos.flatMap(p => toList(p[T.campo])))].sort(alfa);
+            if (!nombres.length) { root.innerHTML = '<p class="vacio">Todavía no hay datos.</p>'; return; }
+
+            const grid = document.createElement('div');
+            grid.className = 'menu-grid';
+            nombres.forEach(n => {
+                const a = document.createElement('a');
+                a.className = 'menu-card';
+                a.href = `lista.html?tipo=${tipoKey}&v=${encodeURIComponent(n)}`;
+                const i = document.createElement('span');
+                i.className = 'menu-icono';
+                i.textContent = T.icono;
+                a.appendChild(i);
+                a.appendChild(document.createTextNode(n));
+                grid.appendChild(a);
+            });
+            root.appendChild(grid);
+        }
+        cargar();
+    </script>
+    <script>
+        /* ── Transición suave entre páginas ── */
+        document.addEventListener('click', e => {
+            const a = e.target.closest('a[href]');
+            if (!a) return;
+            const href = a.getAttribute('href');
+            if (!href || href.startsWith('#') || href.startsWith('http') || a.target === '_blank') return;
+            e.preventDefault();
+            document.body.classList.add('fade-out');
+            setTimeout(() => { window.location.href = href; }, 180);
+        });
+    </script>
+</body>
+</html>

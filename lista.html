@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista | Cinser</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <div class="btn-titulo"><a href="explorar.html" id="titulo">🧭 …</a></div>
+
+    <div id="bloques"></div>
+
+    <div class="btn-volver"><a href="explorar.html" id="volver">Volver</a></div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <img id="modal-img" alt="">
+        </div>
+    </div>
+
+    <script src="js/posters.js"></script>
+    <script src="js/cinser.js"></script>
+    <script>
+        const params  = new URLSearchParams(window.location.search);
+        const tipoKey = TIPOS[params.get('tipo')] ? params.get('tipo') : 'dir';
+        const T       = TIPOS[tipoKey];
+        const valor   = (params.get('v') || '').trim();
+
+        const volverUrl = `explorar.html?tipo=${tipoKey}`;
+        document.getElementById('titulo').textContent = `${T.icono} ${valor}`;
+        document.getElementById('titulo').href = volverUrl;
+        document.getElementById('volver').href = volverUrl;
+        document.title = `${valor} | Cinser`;
+
+        async function cargar() {
+            const { todos } = await cargarPelis();
+            const mias = todos.filter(p => toList(p[T.campo]).includes(valor));
+
+            if (!mias.length) {
+                document.getElementById('bloques').innerHTML = '<p class="vacio">No hay películas para esta selección.</p>';
+                return;
+            }
+            /* Directores y grupos: la película más actual primero */
+            renderBloques([{ titulo: '', lista: mias.slice().sort(porAnyoDesc) }], 'bloques');
+        }
+        cargar();
+    </script>
+    <script>
+        /* ── Transición suave entre páginas ── */
+        document.addEventListener('click', e => {
+            const a = e.target.closest('a[href]');
+            if (!a) return;
+            const href = a.getAttribute('href');
+            if (!href || href.startsWith('#') || href.startsWith('http') || a.target === '_blank') return;
+            e.preventDefault();
+            document.body.classList.add('fade-out');
+            setTimeout(() => { window.location.href = href; }, 180);
+        });
+    </script>
+</body>
+</html>
